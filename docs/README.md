@@ -1,6 +1,6 @@
 plots:
 
-solubulity.html <-- Na,K..H2PO4,SO4 solubility 111021.html
+solubulity.html <-- Na,K..H2PO4,SO4 lab exps 110722.html
 
 density_ortho.html <-- Na,K..H2PO4,SO4 density ortho 170522.html
 
